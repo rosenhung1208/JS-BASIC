@@ -114,3 +114,4 @@ hamTach2 = taoWrapper(boDem2);
 chayCallBack(hamTach2);
 
 //TỔNG KẾT ARROW FUNCTION  -> SẼ GIÚP FIX VIỆC CALLBACK
+// Update code moi
